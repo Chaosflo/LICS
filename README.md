@@ -1,5 +1,5 @@
 # LICS
-######Linux IOT Control Service
+Linux IOT Control Service
 
 LISC is my first project on GitHub!
 
